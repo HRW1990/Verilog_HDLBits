@@ -1,0 +1,3 @@
+The 'begin' keyword is technically only necessary when you have more than one 
+statement in the always block - but best to use it for readability regardless. 
+Make sure to include 'end' at the end of the block.
